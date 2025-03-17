@@ -41,12 +41,12 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 
 
 ## Useful Commands / Tools
-`npm i msw@latest` > install MSW
-`npm i -g create-remix` > Install base to create your remix project
-`create-remix` > creates your remix project
-`npm i openapi-msw` > Library to strongly type your rest clients
-`npx openapi-typescript .\app\src\openapi-spec\schema.yaml -o .\app\src\types\schema.ts` > Generate Typescript Client
-`npm i openapi-fetch` > Fetch Client
+- `npm i msw@latest` > install MSW
+- `npm i -g create-remix` > Install base to create your remix project
+- `create-remix` > creates your remix project
+- `npm i openapi-msw` > Library to strongly type your rest clients
+- `npx openapi-typescript .\app\src\openapi-spec\schema.yaml -o .\app\src\types\schema.ts` > Generate Typescript Client
+- `npm i openapi-fetch` > Fetch Client
 
 ## Steps
 
