@@ -4,7 +4,7 @@ export const petSample = {
       "id": 4,
       "name": "Mock Lion"
     },
-    "name": "Mock Lion%201",
+    "name": "Mock Lion 201",
     "photoUrls": [
       "url1",
       "url2"
