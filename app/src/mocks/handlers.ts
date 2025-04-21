@@ -3,7 +3,7 @@
 import { createOpenApiHttp } from "openapi-msw";
 import type { paths } from "../types/schema"
 import { petSample } from "../samples/petSample";
-import { http, HttpResponse } from 'msw'
+// import { http, HttpResponse } from 'msw'
 
 const rest = createOpenApiHttp<paths>({baseUrl: "https://petstore3.swagger.io/api/v3"})
 
