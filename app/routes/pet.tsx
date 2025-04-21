@@ -27,6 +27,7 @@ export default function PetPage() {
 
   return (
     <div className="flex flex-col items-center gap-9">
+      {/* <title>Get PET</title> */}
       <h1 className='leading text-2xl font-bold text-gray-800 dark:text-gray-100' >Pet Details</h1>
       <h2 className='leading text-2xl font-bold text-gray-600 dark:text-gray-100'>{pet.name}</h2>
       <p className='leading text-xl font-bold text-blue-600 dark:text-gray-100'>Id: {pet.id}</p>
